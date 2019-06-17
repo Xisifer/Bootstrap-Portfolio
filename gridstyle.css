@@ -45,7 +45,10 @@
     padding-left: 20px;
 }
 
-
+img {
+    max-width:275px;
+    max-height:205px;
+}
 #nameplate {
     /* border: 5px solid red; */
     padding: 10 0;
